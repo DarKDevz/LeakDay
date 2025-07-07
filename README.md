@@ -80,7 +80,7 @@ With this we bruteforced all games affected by this:
 | Brawl Stars | v62.x |
 | Hay Day | v1.66 |
 | Clash of Clans | v17.x |
-| Squad Busters | v11.x |
+| Squad Busters | v11-v12.x |
 | Boom Beach | TBD|
 | Clash Royale | None |
 | Mo.co | None |
