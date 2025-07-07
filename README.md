@@ -90,7 +90,7 @@ With this we bruteforced all games affected by this:
 
 While we aren't supercell developers but instead are reverse engineers, we dont have a 100% accurate reasoning for this, as it could be a mixture of things
 
-But because we saw that this leak only happened on binaries which had iOS 12+ compatible binaries, as games like Clash Royale and Mo.co which target iOS 14+ dont have this
+But because we saw that this leak only happened on binaries which were iOS 12+ compatible, as games like Clash Royale and Mo.co which target iOS 14+ dont have this
 
 It could be either:
 
