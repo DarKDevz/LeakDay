@@ -108,7 +108,8 @@ But this makes less sense, as it didnt affect just one game but all of them (mea
 
 ## Final words
 
-This is the biggest leak of supercell binaries, so we wont give any further details on scripts/symbols (also because it took a lot of processing time to extract them)
+This is the biggest leak of supercell binaries
+https://mega.nz/file/3J1x3JYS#Ua4XhmtCXgKlrc_jm68nMUWYvM_LigSmBw456npXmrA
 
 Supercell was informed by a third party about this issue, and fixed it
 
