@@ -85,7 +85,7 @@ With this we bruteforced all games affected by this:
 | Clash Royale | None |
 | Mo.co | None |
 
-##Downloads
+## Downloads
 
 [Brawl Stars](https://mega.nz/file/3J1x3JYS#Ua4XhmtCXgKlrc_jm68nMUWYvM_LigSmBw456npXmrA)
 Hay Day (TBD)
