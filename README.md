@@ -52,7 +52,7 @@ as that holds not only debug symbols but also imported symbols
 While __LINKEDIT does hold all of this info, it mainly is just a command specifying the size of all groups inside of it
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarKDevz/LeakDay/refs/heads/main/image.png?token=GHSAT0AAAAAADF2NTBXV5RHDXFTOANSOI7M2DLVSSQ" width="100%" />
+  <img src="https://raw.githubusercontent.com/DarKDevz/LeakDay/refs/heads/main/image.png" width="100%" />
 </p>
 
 
