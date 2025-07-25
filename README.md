@@ -81,10 +81,16 @@ With this we bruteforced all games affected by this:
 | Hay Day | v1.66 |
 | Clash of Clans | v17.x |
 | Squad Busters | v11-v12.x |
-| Boom Beach | TBD|
+| Boom Beach | Patched, None |
 | Clash Royale | None |
 | Mo.co | None |
 
+##Downloads
+
+[Brawl Stars](https://mega.nz/file/3J1x3JYS#Ua4XhmtCXgKlrc_jm68nMUWYvM_LigSmBw456npXmrA)
+Hay Day (TBD)
+Clash of Clans(TBD)
+Squad Busters(TBD)
 
 ## Why?
 
@@ -109,11 +115,9 @@ But this makes less sense, as it didnt affect just one game but all of them (mea
 ## Final words
 
 This is the biggest leak of supercell binaries
-https://mega.nz/file/3J1x3JYS#Ua4XhmtCXgKlrc_jm68nMUWYvM_LigSmBw456npXmrA
 
 Supercell was informed by a third party about this issue, and fixed it
 
-The release time of this write-up was done once all games affected were updated, to prevent anyone from modding them in this insecure state
 
 ## Legal Notice
 
